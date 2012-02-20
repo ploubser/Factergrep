@@ -1,0 +1,86 @@
+[
+  {
+    "kb.local": {
+      "arp_table": [
+        {
+          "mac_address": "0:c:42:bd:d3:91",
+          "hostname": "",
+          "ip_address": "192.168.16.1",
+          "protocol": "ethernet",
+          "interface": "en1"
+        },
+        {
+          "mac_address": "0:c:29:6b:b7:ce",
+          "hostname": "",
+          "ip_address": "192.168.16.204",
+          "protocol": "ethernet",
+          "interface": "en1"
+        },
+        {
+          "mac_address": "c8:2a:14:50:69:91",
+          "hostname": "",
+          "ip_address": "192.168.16.207",
+          "protocol": "ethernet",
+          "interface": "en1"
+        },
+        {
+          "mac_address": "68:a8:6d:4f:e0:a4",
+          "hostname": "",
+          "ip_address": "192.168.16.215",
+          "protocol": "ethernet",
+          "interface": "en1"
+        },
+        {
+          "mac_address": "ff:ff:ff:ff:ff:ff",
+          "hostname": "",
+          "ip_address": "192.168.16.255",
+          "protocol": "ethernet",
+          "interface": "en1"
+        }
+      ],
+      "operatingsystem": "debian"
+    }
+  },
+  {
+    "kb2.local": {
+      "arp_table": [
+        {
+          "mac_address": "0:c:42:bd:d3:91",
+          "hostname": "",
+          "ip_address": "192.168.16.1",
+          "protocol": "ethernet",
+          "interface": "en1"
+        },
+        {
+          "mac_address": "0:c:29:6b:b7:cf",
+          "hostname": "",
+          "ip_address": "192.168.16.205",
+          "protocol": "ethernet",
+          "interface": "en1"
+        },
+        {
+          "mac_address": "c8:2a:14:50:69:91",
+          "hostname": "",
+          "ip_address": "192.168.16.207",
+          "protocol": "ethernet",
+          "interface": "en1"
+        },
+        {
+          "mac_address": "68:a8:6d:4f:e0:a4",
+          "hostname": "",
+          "ip_address": "192.168.16.215",
+          "protocol": "ethernet",
+          "interface": "en1"
+        },
+        {
+          "mac_address": "ff:ff:ff:ff:ff:ff",
+          "hostname": "",
+          "ip_address": "192.168.16.255",
+          "protocol": "ethernet",
+          "interface": "en1"
+        }
+      ],
+      "operatingsystem": "sunos"
+    }
+  }
+]
